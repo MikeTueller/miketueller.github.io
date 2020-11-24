@@ -1,6 +1,3 @@
-
-
-
 # About this project
 
 - There are some things
