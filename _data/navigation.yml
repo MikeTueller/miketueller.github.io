@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Posts
+  url: /
+
+- title: ASU profile
+  url: https://isearch.asu.edu/profile/1271113
+  excerpt: "My official faculty page at ASU"
+
+- title: Hylas
+  url: http://www.hylas.org
+  excerpt: "The Hylas metrical search tool"
+

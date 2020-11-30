@@ -1,1 +1,64 @@
-theme: jekyll-theme-minimal
+# Site wide configuration
+
+title: "Mike Tueller"
+description: "The work of a classicist at Arizona State University. Check out my metrical search tool!"
+logo: 120x120pic.jpg # 120x120 px default image used for Twitter summary card
+teaser: 400x250pic.jpg # 400x250 px default teaser image used in image archive grid
+locale: en
+url: https://miketueller.github.io
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Site owner
+owner:
+  name: Mike Tueller
+  email: mike_tueller@asu.edu
+  twitter: MikeTueller
+  google:
+    ad-client:
+    ad-slot:
+  bio: Professor of the Classics at Arizona State University. Developer of the Hylas metrical search tool.
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
+
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
