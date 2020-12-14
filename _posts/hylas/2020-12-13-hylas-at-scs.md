@@ -18,7 +18,7 @@ Articles and books to which I refer in the presentation are:
 
 Among the issues I grapple with in the presentation is what “counts” as a word-break in Greek (or, for that matter, Latin, where the question is even less developed). The problem has been pointed out before:
 
-> A. M. Devine and Laurence Stephens, “The Greek Appositives: Toward a Linguistically Adequate Definition of Caesura and Bridge,” _Classical Philology_ 73(4) (1978): 314–328. <https://www.jstor.org/stable/268852> 
+- A. M. Devine and Laurence Stephens, “The Greek Appositives: Toward a Linguistically Adequate Definition of Caesura and Bridge,” _Classical Philology_ 73(4) (1978): 314–328. <https://www.jstor.org/stable/268852> 
 
 Other metrical scanning projects, or their documentation, may be found here:
 
