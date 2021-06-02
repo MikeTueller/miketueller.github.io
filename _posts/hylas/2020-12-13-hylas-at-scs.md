@@ -8,7 +8,7 @@ image:
 ---
 These are some notes to accompany my online presentation at the Society for Classical Studies convention, January 2021.
 
-If there’s a link to the actual presentation somewhere, I’ll post that. For now, you can read over the PowerPoint, which I’ve included [here](/assets/SCS_2021.pdf) in PDF format.
+The actual presentation may be found [here](https://youtu.be/9iUyjJpBZLg) (on YouTube).
 
 Articles and books to which I refer in the presentation are:
 
